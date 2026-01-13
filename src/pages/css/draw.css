@@ -252,12 +252,12 @@
     overflow: hidden;
     background-color: transparent;
     display: block;
-    width: 250px;
-    height: 40px;
+    width: 394px;
+    height: 18px;
     position: absolute;
     left: 50%;
-    margin-left: -125px;
-    bottom: 215px;
+    margin-left: -197px;
+    top: 83px;
 }
 
 .draw-contents h2,
